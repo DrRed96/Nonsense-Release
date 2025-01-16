@@ -18,8 +18,8 @@ def hashFile(name):
         
 def main():
     hashFile('client.jar')
-    hashFile('libs.jar')
-    hashFile('natives.jar')
+#    hashFile('libs.jar')
+#    hashFile('natives.jar')
     
 if __name__ == '__main__':
     main()
